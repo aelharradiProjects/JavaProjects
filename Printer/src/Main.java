@@ -1,7 +1,7 @@
 
 public class Main {
 	public static void main(String[] args) {
-		int numberPages = 3;
+		int numberPages = 409;
 		int addedPages=0;
 		if (numberPages%4 != 0) {
 			addedPages=4-numberPages%4;
